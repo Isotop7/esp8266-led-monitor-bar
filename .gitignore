@@ -1,2 +1,2 @@
-firmware/led.ino
+firmware/*.ino
 firmware/.DS_Store
